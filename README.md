@@ -52,3 +52,5 @@ Built with Claude as a coding partner. I defined the question and the analysis a
 - Feedback from athletes on whether the biggest gap matches how their race felt
 - Comparing against your age group, not just your division
 - Turning gaps into training suggestions
+
+**Try it:** https://next-five-ztte9qexhy6vhpfcpbe54j.streamlit.app
