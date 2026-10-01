@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 .DS_Store
+data/all_results.parquet
+kaggle/
+data/kaggle_repeat_athletes.csv

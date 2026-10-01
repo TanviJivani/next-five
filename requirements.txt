@@ -1,3 +1,5 @@
-pyrox-client
+pyrox-client>=0.2.7
 pandas
+pyarrow
 streamlit
+altair
